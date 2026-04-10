@@ -13,8 +13,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "Mujtaba Khanani | Web Developer",
-  description: "Portfolio website of Mujtaba Khanani, a full-stack web developer",
+  title: "Anas Zahid | Web Developer",
+  description: "Portfolio website of Anas Zahid, a full-stack web developer",
   manifest: "/manifest.json",
   generator: "v0.dev",
   icons: {
